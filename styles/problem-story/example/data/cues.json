@@ -1,0 +1,87 @@
+{
+ "duration": 27.87,
+ "cues": [
+  {
+   "t": 0.1,
+   "type": "tock"
+  },
+  {
+   "t": 0.4,
+   "type": "pop"
+  },
+  {
+   "t": 0.85,
+   "type": "pop"
+  },
+  {
+   "t": 1.35,
+   "type": "alarm",
+   "dur": 0.8,
+   "gain": 0.55
+  },
+  {
+   "t": 5.968,
+   "type": "riser",
+   "dur": 0.42
+  },
+  {
+   "t": 6.418,
+   "type": "drop",
+   "gain": 0.85
+  },
+  {
+   "t": 6.918,
+   "type": "swoosh",
+   "gain": 0.75
+  },
+  {
+   "t": 13.13,
+   "type": "whoosh"
+  },
+  {
+   "t": 13.58,
+   "type": "pop"
+  },
+  {
+   "t": 14.48,
+   "type": "click",
+   "gain": 0.9
+  },
+  {
+   "t": 14.73,
+   "type": "chime",
+   "gain": 0.75
+  },
+  {
+   "t": 19.176,
+   "type": "whoosh"
+  },
+  {
+   "t": 19.356,
+   "type": "pop"
+  },
+  {
+   "t": 19.516,
+   "type": "snap"
+  },
+  {
+   "t": 19.676,
+   "type": "pop"
+  },
+  {
+   "t": 23.552,
+   "type": "drop",
+   "gain": 0.8
+  },
+  {
+   "t": 24.402,
+   "type": "click",
+   "gain": 0.95
+  },
+  {
+   "t": 24.472,
+   "type": "chime",
+   "gain": 0.85
+  }
+ ]
+}

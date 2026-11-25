@@ -1,0 +1,25 @@
+# Python caches & virtualenvs
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Secrets & local env files
+.env
+.env.*
+*.pem
+*.key
+
+# Node & build artifacts
+node_modules/
+npm-debug.log*
+*.log
+
+# Generated scratch renders
+renders/
+review/
+
+# OS files
+.DS_Store
+Thumbs.db

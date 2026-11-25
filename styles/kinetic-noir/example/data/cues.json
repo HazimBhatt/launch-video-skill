@@ -1,0 +1,93 @@
+{
+ "duration": 24.092,
+ "cues": [
+  {
+   "t": 0.1,
+   "type": "snap"
+  },
+  {
+   "t": 0.48,
+   "type": "alarm",
+   "dur": 0.85,
+   "gain": 0.7
+  },
+  {
+   "t": 0.86,
+   "type": "pop",
+   "gain": 0.7
+  },
+  {
+   "t": 1.22,
+   "type": "pop",
+   "gain": 0.75
+  },
+  {
+   "t": 3.077,
+   "type": "riser",
+   "dur": 0.48
+  },
+  {
+   "t": 3.577,
+   "type": "drop",
+   "gain": 0.95
+  },
+  {
+   "t": 3.617,
+   "type": "whoosh",
+   "gain": 0.7
+  },
+  {
+   "t": 7.448,
+   "type": "whoosh"
+  },
+  {
+   "t": 8.598,
+   "type": "click",
+   "gain": 0.9
+  },
+  {
+   "t": 8.778,
+   "type": "shutter",
+   "gain": 0.75
+  },
+  {
+   "t": 11.803,
+   "type": "whoosh"
+  },
+  {
+   "t": 12.023,
+   "type": "snap"
+  },
+  {
+   "t": 12.283,
+   "type": "pop"
+  },
+  {
+   "t": 12.523,
+   "type": "pop"
+  },
+  {
+   "t": 15.674,
+   "type": "whoosh"
+  },
+  {
+   "t": 15.994,
+   "type": "pop"
+  },
+  {
+   "t": 19.061,
+   "type": "drop",
+   "gain": 0.85
+  },
+  {
+   "t": 19.911,
+   "type": "click",
+   "gain": 0.95
+  },
+  {
+   "t": 19.981,
+   "type": "chime",
+   "gain": 0.85
+  }
+ ]
+}

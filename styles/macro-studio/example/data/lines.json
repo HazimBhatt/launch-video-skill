@@ -1,0 +1,92 @@
+{
+ "duration": 26.679,
+ "mode": "beats",
+ "bpm": 124.0,
+ "lead": 0.15,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Build SaaS that scales.",
+   "start": 0.15,
+   "end": 2.085,
+   "beats": 4.0
+  },
+  {
+   "i": 1,
+   "text": "Launch on MetricFlow.",
+   "start": 2.085,
+   "end": 4.021,
+   "beats": 4.0
+  },
+  {
+   "i": 2,
+   "text": "Drop your link.",
+   "start": 4.021,
+   "end": 6.44,
+   "beats": 5.0
+  },
+  {
+   "i": 3,
+   "text": "Signals locked.",
+   "start": 6.44,
+   "end": 8.376,
+   "beats": 4.0
+  },
+  {
+   "i": 4,
+   "text": "Real revenue proof.",
+   "start": 8.376,
+   "end": 10.311,
+   "beats": 4.0
+  },
+  {
+   "i": 5,
+   "text": "Plug in Stripe.",
+   "start": 10.311,
+   "end": 12.247,
+   "beats": 4.0
+  },
+  {
+   "i": 6,
+   "text": "Playbooks fire automatically.",
+   "start": 12.247,
+   "end": 14.666,
+   "beats": 5.0
+  },
+  {
+   "i": 7,
+   "text": "Inspect the code.",
+   "start": 14.666,
+   "end": 17.085,
+   "beats": 5.0
+  },
+  {
+   "i": 8,
+   "text": "With audits built in.",
+   "start": 17.085,
+   "end": 19.021,
+   "beats": 4.0
+  },
+  {
+   "i": 9,
+   "text": "Zero silent leaks.",
+   "start": 19.021,
+   "end": 20.956,
+   "beats": 4.0
+  },
+  {
+   "i": 10,
+   "text": "Ship in one click.",
+   "start": 20.956,
+   "end": 23.376,
+   "beats": 5.0
+  },
+  {
+   "i": 11,
+   "text": "MetricFlow. Win on craft.",
+   "start": 23.376,
+   "end": 26.279,
+   "beats": 6.0
+  }
+ ]
+}

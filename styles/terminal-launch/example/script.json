@@ -1,0 +1,32 @@
+{
+  "title": "TracePulse Launch — 1-Line OpenTelemetry Replay",
+  "mode": "narrated",
+  "aspect": "16:9",
+  "voice": "am_puck",
+  "speed": 1.08,
+  "music": "pulse",
+  "bpm": 126,
+  "captions": true,
+  "lines": [
+    {
+      "text": "Reproducing an edge webhook bug from logs takes forty minutes of guesswork.",
+      "caps": "EDGE WEBHOOK BUGS | TAKE *FORTY MINUTES | OF *GUESSWORK"
+    },
+    {
+      "text": "One import in TracePulse captures every SQL query and payload in two milliseconds.",
+      "caps": "*ONE IMPORT | CAPTURES EVERY QUERY | IN *TWO MILLISECONDS"
+    },
+    {
+      "text": "Click any failing request to step through exact prod state locally.",
+      "caps": "CLICK ANY REQUEST | REPLAY *PROD STATE | LOCALLY"
+    },
+    {
+      "text": "Full OpenTelemetry traces with zero collector YAML and zero cold-start bloat.",
+      "caps": "FULL *OTEL TRACES | ZERO COLLECTOR YAML"
+    },
+    {
+      "text": "Ship faster with TracePulse. Install in one command free today.",
+      "caps": "SHIP WITH *TRACEPULSE | INSTALL *FREE TODAY"
+    }
+  ]
+}

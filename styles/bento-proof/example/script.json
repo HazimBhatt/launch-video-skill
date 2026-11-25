@@ -1,0 +1,16 @@
+{
+  "title": "MetricFlow Launch — Churn Radar & Win-Back Playbooks",
+  "mode": "beats",
+  "aspect": "16:9",
+  "music": "upbeat",
+  "bpm": 118,
+  "lead": 0.2,
+  "captions": false,
+  "lines": [
+    { "text": "Detect failing Stripe charges and silent trial dropoffs early.", "beats": 8 },
+    { "text": "Live churn radar bento with real product capture and rolling proof.", "beats": 9 },
+    { "text": "Click once to fire automated personal founder win-back emails.", "beats": 9 },
+    { "text": "Verified SaaS proof and 10x price anchor versus legacy suites.", "beats": 10 },
+    { "text": "Start recovering MRR free in ninety seconds on metricflow.io.", "beats": 10 }
+  ]
+}

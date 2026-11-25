@@ -1,0 +1,29 @@
+{
+  "name": "InvoiceSnap",
+  "domain": "invoicesnap.co",
+  "url": "https://invoicesnap.co",
+  "theme": "light",
+  "palette": {
+    "bg": "#F7F5EE",
+    "surface": "#FFFFFF",
+    "text": "#111827",
+    "muted": "#4B5563",
+    "accent": "#EA580C",
+    "accentText": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": "FreeMono",
+    "googleFontsUrls": []
+  },
+  "logo": "assets/brand/logo.svg",
+  "copy": {
+    "h1": "Turn Git commits & Slack into invoices in 12 seconds.",
+    "ctaPrimary": "Draft First Invoice Free"
+  },
+  "captures": {
+    "hero": "assets/captures/desktop-hero.png",
+    "showcase": "assets/captures/ui-showcase.png"
+  }
+}

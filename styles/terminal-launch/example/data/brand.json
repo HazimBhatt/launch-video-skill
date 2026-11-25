@@ -1,0 +1,36 @@
+{
+  "name": "TracePulse",
+  "domain": "tracepulse.dev",
+  "url": "https://tracepulse.dev",
+  "theme": "dark",
+  "palette": {
+    "bg": "#07090E",
+    "surface": "#0D111C",
+    "text": "#F8FAFC",
+    "muted": "#94A3B8",
+    "accent": "#10B981",
+    "accentText": "#052E16"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": "FreeMono",
+    "googleFontsUrls": []
+  },
+  "logo": "assets/brand/logo.svg",
+  "copy": {
+    "h1": "Replay any prod request in 1.8ms.",
+    "ctaPrimary": "Get Free API Key",
+    "codeSnippets": [
+      "npx tracepulse init"
+    ],
+    "proofMetrics": [
+      "1.8 ms",
+      "0 YAML"
+    ]
+  },
+  "captures": {
+    "hero": "assets/captures/desktop-hero.png",
+    "showcase": "assets/captures/ui-showcase.png"
+  }
+}

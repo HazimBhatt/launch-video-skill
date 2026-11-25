@@ -1,0 +1,16 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Kinetic Noir Style Sheet</title>
+<style>
+@font-face { font-family: 'Inter'; font-weight: 900; src: url('fonts/Inter-Black.otf') format('opentype'); }
+@font-face { font-family: 'Inter'; font-weight: 800; src: url('fonts/Inter-ExtraBold.otf') format('opentype'); }
+@font-face { font-family: 'FreeMono'; font-weight: 700; src: url('fonts/FreeMonoBold.ttf') format('truetype'); }
+html, body { margin: 0; background: #090A0F; }
+canvas#cv { display: block; max-width: 100vw; height: auto; }
+canvas#gl { display: none; }
+</style></head>
+<body>
+<canvas id="cv" width="1920" height="1080"></canvas>
+<canvas id="gl" width="960" height="540"></canvas>
+<script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}</script>
+<script type="module" src="src/sheet.js"></script>
+</body></html>

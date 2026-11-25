@@ -1,0 +1,38 @@
+{
+ "duration": 23.608,
+ "mode": "narrated",
+ "voice": "am_puck",
+ "speed": 1.08,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Reproducing an edge webhook bug from logs takes forty minutes of guesswork.",
+   "start": 0.35,
+   "end": 4.262
+  },
+  {
+   "i": 1,
+   "text": "One import in TracePulse captures every SQL query and payload in two milliseconds.",
+   "start": 4.512,
+   "end": 9.684
+  },
+  {
+   "i": 2,
+   "text": "Click any failing request to step through exact prod state locally.",
+   "start": 9.934,
+   "end": 13.346
+  },
+  {
+   "i": 3,
+   "text": "Full OpenTelemetry traces with zero collector YAML and zero cold-start bloat.",
+   "start": 13.596,
+   "end": 18.508
+  },
+  {
+   "i": 4,
+   "text": "Ship faster with TracePulse. Install in one command free today.",
+   "start": 18.758,
+   "end": 22.358
+  }
+ ]
+}

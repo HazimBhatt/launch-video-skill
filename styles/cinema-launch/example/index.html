@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Launch Video · Cinema Launch</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;600;700;800&family=Stardos+Stencil:wght@700&display=swap" rel="stylesheet" />
+  <style>
+    @font-face { font-family: 'DM Sans'; font-weight: 500; src: url('fonts/DMSans-Medium.woff2') format('woff2'); }
+    @font-face { font-family: 'DM Sans'; font-weight: 600; src: url('fonts/DMSans-SemiBold.woff2') format('woff2'); }
+    @font-face { font-family: 'DM Sans'; font-weight: 700; src: url('fonts/DMSans-Bold.woff2') format('woff2'); }
+    @font-face { font-family: 'Inter'; font-weight: 500; src: url('fonts/Inter-Medium.woff2') format('woff2'); }
+    @font-face { font-family: 'Inter'; font-weight: 600; src: url('fonts/Inter-SemiBold.woff2') format('woff2'); }
+    @font-face { font-family: 'Inter'; font-weight: 700; src: url('fonts/Inter-Bold.woff2') format('woff2'); }
+    @font-face { font-family: 'Inter'; font-weight: 800; src: url('fonts/Inter-ExtraBold.otf'); }
+    @font-face { font-family: 'Inter'; font-weight: 900; src: url('fonts/Inter-Black.otf'); }
+    @font-face { font-family: 'JetBrains Mono'; font-weight: 500; src: url('fonts/JetBrainsMono-Medium.woff2') format('woff2'); }
+    @font-face { font-family: 'JetBrains Mono'; font-weight: 700; src: url('fonts/JetBrainsMono-Bold.woff2') format('woff2'); }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 100%; height: 100%; background: #FAF9F7;
+      display: flex; align-items: center; justify-content: center; overflow: hidden;
+      font-family: 'Inter', 'DM Sans', sans-serif;
+    }
+    canvas#cv { max-width: 100vw; max-height: 100vh; width: auto; height: auto; display: block; box-shadow: 0 24px 80px rgba(0,0,0,0.22); }
+    canvas#gl { display: none; }
+    body.capture canvas#cv { height: auto; width: auto; max-width: none; max-height: none; }
+    button#play {
+      position: fixed; z-index: 10; padding: 14px 28px; border-radius: 999px;
+      border: 1px solid rgba(20,20,19,0.18); background: rgba(255,255,255,0.92);
+      color: #141413; font: 700 16px Inter, sans-serif; cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="cv"></canvas>
+  <canvas id="gl"></canvas>
+  <button id="play" hidden>Play Preview</button>
+  <script>if (location.search.includes('capture')) document.body.className = 'capture';</script>
+  <script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}</script>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>

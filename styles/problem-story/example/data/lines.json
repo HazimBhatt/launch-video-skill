@@ -1,0 +1,38 @@
+{
+ "duration": 27.87,
+ "mode": "narrated",
+ "voice": "af_heart",
+ "speed": 1.06,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Every Friday night ends the same way: digging through Slack threads and Git commits just to bill your client.",
+   "start": 0.35,
+   "end": 6.228
+  },
+  {
+   "i": 1,
+   "text": "InvoiceSnap turns a week of messy work log exports into a clean, line-item invoice in twelve seconds.",
+   "start": 6.478,
+   "end": 12.94
+  },
+  {
+   "i": 2,
+   "text": "Pick your repo and date range, verify every billed hour, and send a Stripe payment link in one click.",
+   "start": 13.19,
+   "end": 18.986
+  },
+  {
+   "i": 3,
+   "text": "Stop donating two unpaid hours every month to formatting spreadsheets.",
+   "start": 19.236,
+   "end": 23.362
+  },
+  {
+   "i": 4,
+   "text": "Try InvoiceSnap on your last sprint free in thirty seconds.",
+   "start": 23.612,
+   "end": 26.62
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "BranchBox",
+  "domain": "branchbox.dev",
+  "url": "https://branchbox.dev",
+  "theme": "dark",
+  "palette": {
+    "bg": "#090A10",
+    "surface": "#11131D",
+    "text": "#F8FAFC",
+    "muted": "#94A3B8",
+    "accent": "#6366F1",
+    "accentText": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": "FreeMono",
+    "googleFontsUrls": []
+  },
+  "logo": "assets/brand/logo.svg",
+  "copy": {
+    "h1": "Fork production databases per PR in 400ms.",
+    "heroSubhead": "Every pull request gets an isolated Postgres branch with masked PII data.",
+    "ctaPrimary": "Deploy First Branch",
+    "features": [
+      {
+        "title": "400ms Copy-on-Write Forks",
+        "body": "Instant database branching without duplicating 400GB snapshots."
+      },
+      {
+        "title": "Automatic PII Masking",
+        "body": "Scrubs production emails and tokens before devs connect."
+      },
+      {
+        "title": "Auto-Expire on Merge",
+        "body": "Zero zombie staging databases burning cloud bill."
+      }
+    ],
+    "proofMetrics": [
+      "380 ms",
+      "14 MB delta",
+      "100% masked"
+    ],
+    "pricing": [
+      "Free hobby tier",
+      "$29/mo team"
+    ],
+    "codeSnippets": [
+      "npx branchbox init"
+    ]
+  },
+  "captures": {
+    "hero": "assets/captures/desktop-hero.png",
+    "showcase": "assets/captures/ui-showcase.png",
+    "mobile": "assets/captures/mobile-hero.png"
+  }
+}

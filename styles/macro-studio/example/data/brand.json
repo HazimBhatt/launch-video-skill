@@ -1,0 +1,29 @@
+{
+  "name": "MetricFlow",
+  "domain": "metricflow.io",
+  "url": "https://metricflow.io",
+  "theme": "light",
+  "palette": {
+    "bg": "#F4F4F7",
+    "surface": "#FFFFFF",
+    "text": "#111827",
+    "muted": "#4B5563",
+    "accent": "#2563EB",
+    "accentText": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter",
+    "mono": "FreeMono",
+    "googleFontsUrls": []
+  },
+  "logo": "assets/brand/logo.svg",
+  "copy": {
+    "h1": "Recover silent Stripe & PostHog churn automatically.",
+    "ctaPrimary": "Start 14-Day Free Trial"
+  },
+  "captures": {
+    "hero": "assets/captures/desktop-hero.png",
+    "showcase": "assets/captures/ui-showcase.png"
+  }
+}

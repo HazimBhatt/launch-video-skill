@@ -1,0 +1,20 @@
+{
+  "title": "Cinema Launch Reference",
+  "mode": "beats",
+  "aspect": "16:9",
+  "music": "anthem",
+  "bpm": 122,
+  "lead": 0.0,
+  "outro": 0.25,
+  "captions": false,
+  "lines": [
+    { "text": "Ship work people notice.", "beats": 4, "cueNote": "Chromatic scramble-decode opener" },
+    { "text": "Meet your studio.", "beats": 4, "cueNote": "Living daylight sky + squircle wordmark" },
+    { "text": "Paste any link.", "beats": 5, "cueNote": "Liquid Glass prompt + 2.6x macro push + spinner" },
+    { "text": "Everything in one view.", "beats": 4, "cueNote": "Floating UI evidence fan around frosted capsule" },
+    { "text": "Before and after, live.", "beats": 6, "cueNote": "Dual 3D angled macOS windows + real-time scan wipe" },
+    { "text": "Edit once, sync everywhere.", "beats": 6, "cueNote": "Split frosted-glass strikethrough diff + live preview" },
+    { "text": "Ready to ship.", "beats": 5, "cueNote": "Pixel-mosaic dissolve into annotated workspace" },
+    { "text": "Try it today.", "beats": 6, "cueNote": "Stark editorial inline-emblem endcard + domain" }
+  ]
+}

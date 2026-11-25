@@ -1,0 +1,43 @@
+{
+ "duration": 24.79,
+ "mode": "beats",
+ "bpm": 118.0,
+ "lead": 0.2,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Detect failing Stripe charges and silent trial dropoffs early.",
+   "start": 0.2,
+   "end": 4.268,
+   "beats": 8.0
+  },
+  {
+   "i": 1,
+   "text": "Live churn radar bento with real product capture and rolling proof.",
+   "start": 4.268,
+   "end": 8.844,
+   "beats": 9.0
+  },
+  {
+   "i": 2,
+   "text": "Click once to fire automated personal founder win-back emails.",
+   "start": 8.844,
+   "end": 13.42,
+   "beats": 9.0
+  },
+  {
+   "i": 3,
+   "text": "Verified SaaS proof and 10x price anchor versus legacy suites.",
+   "start": 13.42,
+   "end": 18.505,
+   "beats": 10.0
+  },
+  {
+   "i": 4,
+   "text": "Start recovering MRR free in ninety seconds on metricflow.io.",
+   "start": 18.505,
+   "end": 23.59,
+   "beats": 10.0
+  }
+ ]
+}

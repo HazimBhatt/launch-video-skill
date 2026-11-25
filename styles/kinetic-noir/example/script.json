@@ -1,0 +1,46 @@
+{
+  "title": "BranchBox Launch — Fork Postgres per PR in 400ms",
+  "aspect": "16:9",
+  "mode": "beats",
+  "bpm": 124,
+  "voice": "am_michael",
+  "speed": 1.05,
+  "lead": 0.25,
+  "outro": 1.1,
+  "music": "pulse",
+  "sources": [
+    "https://branchbox.dev (probed brand DNA, hero capture, branch graph UI capture)"
+  ],
+  "lines": [
+    {
+      "text": "Shared staging databases break every single Friday.",
+      "caps": "SHARED STAGING | *BREAKS EVERY FRIDAY",
+      "beats": 7
+    },
+    {
+      "text": "BranchBox forks production Postgres per PR in four hundred milliseconds.",
+      "caps": "MEET *BRANCHBOX | *400MS POSTGRES FORKS",
+      "beats": 8
+    },
+    {
+      "text": "Click once to clone isolated data with automatic PII masking.",
+      "caps": "*ONE CLICK FORK | *100% PII MASKED",
+      "beats": 9
+    },
+    {
+      "text": "Three hundred eighty milliseconds instead of an eighteen minute restore.",
+      "caps": "*380MS VS 18M | *14MB DELTA",
+      "beats": 8
+    },
+    {
+      "text": "Branches auto-expire on merge so zombie staging costs drop to zero.",
+      "caps": "AUTO-EXPIRES ON *MERGE | ZERO *ZOMBIE BILLS",
+      "beats": 7
+    },
+    {
+      "text": "Ship PRs not migrations. Try BranchBox free today.",
+      "caps": "SHIP *PRS | NOT *MIGRATIONS",
+      "beats": 8
+    }
+  ]
+}

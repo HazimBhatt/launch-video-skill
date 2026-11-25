@@ -1,0 +1,32 @@
+{
+  "title": "InvoiceSnap Launch — Commits & Slack to Client Invoice in 12s",
+  "mode": "narrated",
+  "aspect": "16:9",
+  "voice": "af_heart",
+  "speed": 1.06,
+  "music": "upbeat",
+  "bpm": 116,
+  "captions": true,
+  "lines": [
+    {
+      "text": "Every Friday night ends the same way: digging through Slack threads and Git commits just to bill your client.",
+      "caps": "EVERY FRIDAY NIGHT | DIGGING THROUGH *SLACK | AND GIT COMMITS"
+    },
+    {
+      "text": "InvoiceSnap turns a week of messy work log exports into a clean, line-item invoice in twelve seconds.",
+      "caps": "INVOICESNAP TURNS MESS | INTO A *CLEAN INVOICE | IN *TWELVE SECONDS"
+    },
+    {
+      "text": "Pick your repo and date range, verify every billed hour, and send a Stripe payment link in one click.",
+      "caps": "PICK REPO & DATES | VERIFY HOURS | *ONE CLICK STRIPE LINK"
+    },
+    {
+      "text": "Stop donating two unpaid hours every month to formatting spreadsheets.",
+      "caps": "STOP DONATING | TWO *UNPAID HOURS | TO *SPREADSHEETS"
+    },
+    {
+      "text": "Try InvoiceSnap on your last sprint free in thirty seconds.",
+      "caps": "TRY *INVOICESNAP FREE | IN *THIRTY SECONDS"
+    }
+  ]
+}

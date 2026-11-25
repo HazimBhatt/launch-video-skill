@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Macro Studio · Style Sheet</title>
+  <style>
+    @font-face { font-family: 'DM Sans'; font-weight: 500; src: url('fonts/DMSans-Medium.woff2') format('woff2'); }
+    @font-face { font-family: 'DM Sans'; font-weight: 600; src: url('fonts/DMSans-SemiBold.woff2') format('woff2'); }
+    @font-face { font-family: 'DM Sans'; font-weight: 700; src: url('fonts/DMSans-Bold.woff2') format('woff2'); }
+    @font-face { font-family: 'Inter'; font-weight: 500; src: url('fonts/Inter-Medium.woff2') format('woff2'); }
+    @font-face { font-family: 'Inter'; font-weight: 600; src: url('fonts/Inter-SemiBold.woff2') format('woff2'); }
+    @font-face { font-family: 'Inter'; font-weight: 700; src: url('fonts/Inter-Bold.woff2') format('woff2'); }
+    @font-face { font-family: 'Inter'; font-weight: 800; src: url('fonts/Inter-ExtraBold.otf'); }
+    @font-face { font-family: 'Inter'; font-weight: 900; src: url('fonts/Inter-Black.otf'); }
+    @font-face { font-family: 'JetBrains Mono'; font-weight: 500; src: url('fonts/JetBrainsMono-Medium.woff2') format('woff2'); }
+    @font-face { font-family: 'JetBrains Mono'; font-weight: 700; src: url('fonts/JetBrainsMono-Bold.woff2') format('woff2'); }
+    @font-face { font-family: 'FreeMono'; font-weight: 700; src: url('fonts/FreeMonoBold.ttf'); }
+    body { margin: 0; background: #EFECE6; }
+  </style>
+</head>
+<body>
+  <canvas id="cv" width="1920" height="1080"></canvas>
+  <canvas id="gl" width="960" height="540" style="display:none"></canvas>
+  <script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}</script>
+  <script type="module" src="src/sheet.js"></script>
+</body>
+</html>

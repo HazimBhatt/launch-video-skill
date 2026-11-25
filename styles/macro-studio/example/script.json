@@ -1,0 +1,24 @@
+{
+  "title": "MetricFlow — Macro Studio Reference Launch",
+  "mode": "beats",
+  "aspect": "16:9",
+  "music": "none",
+  "bpm": 124,
+  "lead": 0.15,
+  "outro": 0.4,
+  "captions": false,
+  "lines": [
+    { "text": "Build SaaS that scales.", "vo": "Build software that scales.", "beats": 4, "cueNote": "Centered headline + syntax cloud disperse" },
+    { "text": "Launch on MetricFlow.", "vo": "Launch on MetricFlow.", "beats": 4, "cueNote": "Rapid brand reveal" },
+    { "text": "Drop your link.", "vo": "Drop your link.", "beats": 5, "cueNote": "Solitary white prompt card typing URL + click" },
+    { "text": "Signals locked.", "vo": "Every signal locked.", "beats": 4, "cueNote": "Macro architecture tree slide" },
+    { "text": "Real revenue proof.", "vo": "Instant live revenue proof.", "beats": 4, "cueNote": "Full-bleed dashboard pan" },
+    { "text": "Plug in Stripe.", "vo": "Plug in your billing.", "beats": 4, "cueNote": "Center icon morphs into pill connectors + smear" },
+    { "text": "Playbooks fire automatically.", "vo": "Playbooks run automatically.", "beats": 5, "cueNote": "Macro schedule scrub zoom" },
+    { "text": "Inspect the code.", "vo": "Own every line of logic.", "beats": 5, "cueNote": "Matte carbon terminal typing -> code slab" },
+    { "text": "With audits built in.", "vo": "With safeguards built in.", "beats": 4, "cueNote": "Scan grid + bokeh Apply Fixes click" },
+    { "text": "Zero silent leaks.", "vo": "Zero silent revenue leaks.", "beats": 4, "cueNote": "Matte carbon shield verification matrix" },
+    { "text": "Ship in one click.", "vo": "Deploy in one click.", "beats": 5, "cueNote": "Solitary black button click -> rapid product showcase" },
+    { "text": "MetricFlow. Win on craft.", "vo": "MetricFlow. Keep what you earned.", "beats": 6, "cueNote": "Wordmark + expanding hairline capsule" }
+  ]
+}
